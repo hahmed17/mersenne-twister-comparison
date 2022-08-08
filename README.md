@@ -1,1 +1,0 @@
-# mersenne-twister-comparison
